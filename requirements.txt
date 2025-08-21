@@ -1,1 +1,6 @@
 streamlit
+jsonschema 
+xmlschema 
+pandas 
+plotly 
+networkx
