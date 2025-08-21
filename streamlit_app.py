@@ -18,7 +18,7 @@ import networkx as nx
 
 # Конфігурація сторінки
 st.set_page_config(
-    page_title="Enhanced SBOM Validator",
+    page_title="SBOM Validator",
     page_icon="🛡️",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -599,7 +599,7 @@ def main():
     # Заголовок
     st.markdown("""
     <div class="main-header">
-        <h1>🛡️ Enhanced SBOM Validator</h1>
+        <h1>🛡️ SBOM Validator</h1>
         <p>Універсальний валідатор для SPDX 2.3/3.0 та CycloneDX 1.3-1.6 з автоматичним визначенням формату</p>
     </div>
     """, unsafe_allow_html=True)
