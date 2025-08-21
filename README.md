@@ -1,10 +1,8 @@
-# 🎈 Blank app template
+# 🎈 SBOM Validator на Streamlit
 
-A simple Streamlit app template for you to modify!
+ Повнофункціональний SBOM Validator на Streamlit
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sbom-json-schema-validator-webapp.streamlit.app/)
-
-Я створив повнофункціональний SBOM Validator на Streamlit з усіма функціями, які ви описали. Ось ключові особливості реалізації:
 
 ## 🚀 Основні можливості
 
